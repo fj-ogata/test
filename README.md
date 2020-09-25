@@ -4,3 +4,4 @@ test
 
 .git status
 aiueo
+git diff
